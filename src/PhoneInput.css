@@ -1,0 +1,11 @@
+.phone-input {
+    border: 1px solid gray;
+    padding: 1em;
+    display: inline-block;
+}
+
+.phone-input input {
+    display: block;
+    padding: 1em;
+    margin-top: .5em;
+}
